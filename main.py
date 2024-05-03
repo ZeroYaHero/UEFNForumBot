@@ -4,6 +4,7 @@ from discord.ext import commands
 from enum import Enum
 
 
+# Is it because...thingy mabob??
 # Testing gitignore 
 botintents = discord.Intents.default()
 botintents.message_content = True
